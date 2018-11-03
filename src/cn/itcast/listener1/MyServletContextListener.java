@@ -4,6 +4,9 @@ import javax.servlet.ServletContext;
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 
+/**
+ * 域对象的创建和销毁的监听器ServletContextListener
+ */
 public class MyServletContextListener implements ServletContextListener{
 	
 	/**
