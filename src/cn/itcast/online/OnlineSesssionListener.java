@@ -5,6 +5,9 @@ import javax.servlet.http.HttpSession;
 import javax.servlet.http.HttpSessionEvent;
 import javax.servlet.http.HttpSessionListener;
 
+/**
+ * 统计现在在线的人数HttpSessionListener
+ */
 public class OnlineSesssionListener implements HttpSessionListener{
 
 	/**
