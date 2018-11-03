@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>测试HttpSessionAttributeListener域对象属性的状态改变的监听器</title>
+<title>测试域对象属性的状态改变的监听器HttpSessionAttributeListener</title>
 </head>
 <body>
 
