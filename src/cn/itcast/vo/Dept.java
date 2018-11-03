@@ -5,6 +5,9 @@ import java.io.Serializable;
 import javax.servlet.http.HttpSessionActivationListener;
 import javax.servlet.http.HttpSessionEvent;
 
+/**
+ * session域对象中的JavaBean的监听器HttpSessionActivationListener
+ */
 public class Dept implements HttpSessionActivationListener,Serializable{
 	
 	private int dno;
