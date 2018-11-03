@@ -4,7 +4,7 @@ import javax.servlet.http.HttpSessionEvent;
 import javax.servlet.http.HttpSessionListener;
 
 /**
- * 域对象的创建和销毁的监听器ServletContextListener
+ * 域对象的创建和销毁的监听器HttpSessionListener
  */
 public class MyHttpSessionListener implements HttpSessionListener{
 
