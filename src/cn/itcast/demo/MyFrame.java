@@ -7,8 +7,6 @@ import javax.swing.JFrame;
 
 /**
  * 了解监听器执行的过程
- * @author Administrator
- *
  */
 public class MyFrame extends JFrame{
 	
@@ -26,8 +24,6 @@ public class MyFrame extends JFrame{
 
 /**
  * 监听器对象（监听mf）
- * @author Administrator
- *
  */
 class MyListener implements WindowListener{
 	
