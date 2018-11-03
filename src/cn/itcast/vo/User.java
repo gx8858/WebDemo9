@@ -3,6 +3,9 @@ package cn.itcast.vo;
 import javax.servlet.http.HttpSessionBindingEvent;
 import javax.servlet.http.HttpSessionBindingListener;
 
+/**
+ * session域对象中的JavaBean的监听器HttpSessionBindingListener
+ */
 public class User implements HttpSessionBindingListener{
 	
 	private int id;
