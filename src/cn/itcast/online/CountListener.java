@@ -4,6 +4,9 @@ import javax.servlet.ServletContext;
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 
+/**
+ * 统计现在在线的人数ServletContextListener
+ */
 public class CountListener implements ServletContextListener{
 
 	/**
