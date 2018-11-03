@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>测试session域对象中的JavaBean的监听器HttpSessionActivationListener</title>
 </head>
 <body>
 
